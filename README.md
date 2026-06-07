@@ -15,8 +15,10 @@
 📫 Connect with me:
 - GitHub: https://github.com/bhavyasree-22
 
-## GitHub Stats
+## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyasree-22&show_icons=true)
+🔹 Open Source Contributor
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyasree-22&layout=compact)
+🔹 Working on AI/ML and Full Stack Development
+
+🔹 Learning through real-world GitHub issues and pull requests
