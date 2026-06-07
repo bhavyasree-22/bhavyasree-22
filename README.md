@@ -4,21 +4,31 @@
 
 💻 Open Source Contributor
 
-🌱 Currently learning Full Stack Development, AI/ML and System Design
+---
 
-🚀 Interested in:
-- Artificial Intelligence
-- Machine Learning
-- Open Source 
-- Web Development
+## 📊 GitHub Stats
 
-📫 Connect with me:
-- GitHub: https://github.com/bhavyasree-22
+![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyasree-22&show_icons=true&theme=tokyonight)
 
-## GitHub
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyasree-22&layout=compact&theme=tokyonight)
 
-🔹 Open Source Contributor
+---
 
-🔹 Working on AI/ML and Full Stack Development
+## 🔥 GitHub Streak
 
-🔹 Learning through real-world GitHub issues and pull requests
+![GitHub Streak](https://streak-stats.demolab.com?user=bhavyasree-22&theme=tokyonight)
+
+---
+
+## 🚀 Current Focus
+
+- Open Source Contributions
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect
+
+GitHub: https://github.com/bhavyasree-22
