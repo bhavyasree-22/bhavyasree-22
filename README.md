@@ -6,6 +6,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyasree-22&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyasree-22&layout=compact&theme=tokyonight)
+
+---
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bhavyasree-22&theme=tokyonight)
